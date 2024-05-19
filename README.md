@@ -12,7 +12,8 @@ Bibliotecas usadas
 * selenium
 * webdriver manager
 
-Atividade 1
+Atividade 1\
+![Alt letra google](imagens/resultado_teste_triangulo.PNG)
 
 Atividade 2\
 ![Alt letra google](imagens/letra_google.PNG)
