@@ -13,6 +13,6 @@ Bibliotecas usadas
 * webdriver manager
 
 Atividade 2\
-![Alt letra google](imagens\letra_google.PNG)
+![Alt letra google](imagens/letra_google.PNG)
 
-![Alt letra terminal](imagens\letra_terminal.PNG)
+![Alt letra terminal](imagens/letra_terminal.PNG)
