@@ -12,6 +12,8 @@ Bibliotecas usadas
 * selenium
 * webdriver manager
 
+Atividade 1
+
 Atividade 2\
 ![Alt letra google](imagens/letra_google.PNG)
 
