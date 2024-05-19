@@ -10,4 +10,4 @@ Bibliotecas usadas
 * pytest
 * pytest-bdd
 * selenium
-* webdriver mannager
+* webdriver manager
