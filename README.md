@@ -11,6 +11,7 @@ Bibliotecas usadas
 * pytest-bdd
 * selenium
 * webdriver manager
+* datetime
 
 Atividade 1\
 ![Alt letra google](imagens/resultado_teste_triangulo.PNG)
@@ -19,3 +20,5 @@ Atividade 2\
 ![Alt letra google](imagens/letra_google.PNG)
 
 ![Alt letra terminal](imagens/letra_terminal.PNG)
+
+Atividade 3\
