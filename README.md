@@ -14,7 +14,7 @@ Bibliotecas usadas
 * datetime
 
 Atividade 1\
-![Alt letra google](imagens/resultado_teste_triangulo.PNG)
+![Alt resultado teste aprov. triangulo](imagens/resultado_teste_triangulo.PNG)
 
 Atividade 2\
 ![Alt letra google](imagens/letra_google.PNG)
@@ -22,3 +22,4 @@ Atividade 2\
 ![Alt letra terminal](imagens/letra_terminal.PNG)
 
 Atividade 3\
+![Alt resultado teste aprov. estacionamento](imagens/resultado_teste_estacionamento.PNG)
