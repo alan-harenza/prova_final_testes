@@ -3,8 +3,9 @@
 Repositorio com finalidade de desenvolver a prova\
 final da materia de Automacao de Testes de Software
 
-alunos: Alan Harenza Pereira\
-RA: 2201070
+alunos: Alan Harenza Pereira - RA: 2201070\
+        Pamela Jesus Lima - RA: 2201515
+
 
 Bibliotecas usadas
 * pytest
